@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Painkiller Dose
+
+This log tracks the cryptographic history and versioning for the song **Painkiller Dose** (painkiller-dose).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-22T01:14:42.135184 | `v1` | `4b32b51c56bd63b010c1d0aa0741303500eee42a58a12300287da1e18450250c` | `dee0d21ff46f06676aaa1ee230581b20decee3ad56df5b1a0313f6199ecb318f` | `2026-05-22_painkiller-dose-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
